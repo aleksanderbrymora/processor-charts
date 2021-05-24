@@ -1,0 +1,587 @@
+[
+  {
+    "name": "x-kom",
+    "data": [
+      {
+        "name": "AMD Ryzen 5 3600",
+        "place": 1
+      },
+      {
+        "name": "Intel Core i5‑10400F",
+        "place": 2
+      },
+      {
+        "name": "AMD Ryzen 5 1600 AF",
+        "place": 3
+      },
+      {
+        "name": "Intel Core i5‑11400",
+        "place": 4
+      },
+      {
+        "name": "AMD  Ryzen 9 3900X",
+        "place": 5
+      },
+      {
+        "name": "Intel Core i5‑10600KF",
+        "place": 6
+      },
+      {
+        "name": "AMD Ryzen 7 3700X",
+        "place": 7
+      },
+      {
+        "name": "AMD Ryzen 5 5600X",
+        "place": 8
+      },
+      {
+        "name": "AMD Ryzen 3 1200 AF",
+        "place": 9
+      },
+      {
+        "name": "Intel Core i5‑10400",
+        "place": 10
+      }
+    ]
+  },
+  {
+    "name": "komputronik",
+    "data": [
+      {
+        "name": "AMD Ryzen 5 3600",
+        "place": 1
+      },
+      {
+        "name": "AMD Ryzen 5 1600 AF",
+        "place": 2
+      },
+      {
+        "name": "AMD Ryzen 5 5600X",
+        "place": 3
+      },
+      {
+        "name": "Intel Core i5-11600K",
+        "place": 4
+      },
+      {
+        "name": "AMD Ryzen 7 5800X",
+        "place": 5
+      },
+      {
+        "name": "Intel Core i7-10700K",
+        "place": 6
+      },
+      {
+        "name": "AMD Ryzen 9 5900X",
+        "place": 7
+      },
+      {
+        "name": "Intel Core i9-10900F",
+        "place": 8
+      },
+      {
+        "name": "AMD Ryzen 7 3700X",
+        "place": 9
+      },
+      {
+        "name": "Intel Core i5-10600KF",
+        "place": 10
+      }
+    ]
+  },
+  {
+    "name": "alternate",
+    "data": [
+      {
+        "name": "AMD Ryzen Threadripper 3990X socket sTRX4 processor",
+        "place": 1
+      },
+      {
+        "name": "AMD Ryzen Threadripper 3960X socket sTRX4 processor",
+        "place": 2
+      },
+      {
+        "name": "AMD Ryzen Threadripper 3970X socket sTRX4 processor",
+        "place": 3
+      },
+      {
+        "name": "AMD Ryzen 5 5600X, 3,7 GHz (4,6 GHz Turbo Boost) socket AM4 processor",
+        "place": 4
+      },
+      {
+        "name": "AMD Ryzen 9 5950X, 3,4 GHz (4,9 GHz Turbo Boost) socket AM4 processor",
+        "place": 5
+      },
+      {
+        "name": "AMD Ryzen 9 5900X, 3,7 GHz (4,8 GHz Turbo Boost) socket AM4 processor",
+        "place": 6
+      },
+      {
+        "name": "Intel® Core i7-10700K, 3,8 GHz (5,1 GHz Turbo Boost) socket 1200 processor",
+        "place": 7
+      },
+      {
+        "name": "Intel® Core i9-11900, 2,5 GHz (5,2 GHz Turbo Boost) socket 1200 processor",
+        "place": 8
+      },
+      {
+        "name": "AMD Ryzen 7 3700X socket AM4 processor",
+        "place": 9
+      },
+      {
+        "name": "AMD Ryzen 9 3900X socket AM4 processor",
+        "place": 10
+      }
+    ]
+  },
+  {
+    "name": "czc",
+    "data": [
+      {
+        "name": "AMD Ryzen 5 3600",
+        "place": 1
+      },
+      {
+        "name": "AMD Ryzen 9 5900X",
+        "place": 2
+      },
+      {
+        "name": "AMD Ryzen 5 5600X",
+        "place": 3
+      },
+      {
+        "name": "AMD Ryzen 5 1600 s chladičem Wraith Stealth, 12nm",
+        "place": 4
+      },
+      {
+        "name": "AMD Ryzen 9 5950X",
+        "place": 5
+      },
+      {
+        "name": "Intel Core i5-10400F",
+        "place": 6
+      },
+      {
+        "name": "AMD Ryzen 7 5800X",
+        "place": 7
+      },
+      {
+        "name": "AMD Ryzen 3 1200 s chladičem Wraith Stealth, 12nm",
+        "place": 8
+      },
+      {
+        "name": "AMD Ryzen 7 3700X",
+        "place": 9
+      },
+      {
+        "name": "AMD Ryzen 9 3900X",
+        "place": 10
+      }
+    ]
+  },
+  {
+    "name": "inet",
+    "data": [
+      {
+        "name": "AMD Ryzen 5 5600X 3.7 GHz 35MB",
+        "place": 1
+      },
+      {
+        "name": "AMD Ryzen 9 5950X 3.4 GHz 72MB",
+        "place": 2
+      },
+      {
+        "name": "AMD Ryzen 9 5900X 3.7 GHz 70MB",
+        "place": 3
+      },
+      {
+        "name": "AMD Ryzen 7 5800X 3.8 GHz 36MB",
+        "place": 4
+      },
+      {
+        "name": "AMD Ryzen 5 3600 3.6 GHz 35MB",
+        "place": 5
+      },
+      {
+        "name": "AMD Ryzen 7 3700X 3.6 GHz 36MB",
+        "place": 6
+      },
+      {
+        "name": "Intel Core i9 10900K 3.7 GHz 20MB",
+        "place": 7
+      },
+      {
+        "name": "AMD Ryzen 9 3900X 3.8 GHz 70MB",
+        "place": 8
+      },
+      {
+        "name": "Intel Core i7 10700K 3.8 GHz 16MB",
+        "place": 9
+      },
+      {
+        "name": "Intel Core i5 10600K 4.1 GHz 12MB",
+        "place": 10
+      }
+    ]
+  },
+  {
+    "name": "jimms",
+    "data": [
+      {
+        "name": "Ryzen 7 5800X, AM4, 3.8 GHz, 8-Core, Boxed AMD",
+        "place": 1
+      },
+      {
+        "name": "Ryzen 5 3600, AM4, 3.6 GHz, 6-core AMD",
+        "place": 2
+      },
+      {
+        "name": "Ryzen 7 3700X, AM4, 3.6GHz, 8-core AMD",
+        "place": 3
+      },
+      {
+        "name": "Ryzen 9 5950X, AM4, 3.4 GHz, 16-Core, Boxed AMD",
+        "place": 4
+      },
+      {
+        "name": "Core i5-11600K, LGA1200, 3.90 GHz, 12MB, Boxed Intel",
+        "place": 5
+      },
+      {
+        "name": "Core i7-11700K, LGA1200, 3.60 GHz, 16MB, Boxed Intel",
+        "place": 6
+      },
+      {
+        "name": "Ryzen 5 5600X, AM4, 3.7 GHz, 6-Core, Boxed AMD",
+        "place": 7
+      },
+      {
+        "name": "Ryzen 9 3900X, AM4, 3.8GHz, 12-core AMD",
+        "place": 8
+      },
+      {
+        "name": "Ryzen 9 5900X, AM4, 3.7 GHz, 12-Core, Boxed AMD",
+        "place": 9
+      },
+      {
+        "name": "Core i7-10700K, LGA1200, 3.80 GHz, 16MB, Boxed Intel",
+        "place": 10
+      }
+    ]
+  },
+  {
+    "name": "proshop",
+    "data": [
+      {
+        "name": "AMD Ryzen 5 5600X Wraith Stealth CPU - 6 kerner 3.7 GHz - AMD AM4 - AMD Boxed (PIB - med køler)",
+        "place": 1
+      },
+      {
+        "name": "AMD Ryzen 9 5900X CPU - 12 kerner 3.7 GHz - AMD AM4 - AMD Boxed (WOF - uden køler)",
+        "place": 2
+      },
+      {
+        "name": "AMD Ryzen 9 5950X CPU - 16 kerner 3.4 GHz - AMD AM4 - AMD Boxed (WOF - uden køler)",
+        "place": 3
+      },
+      {
+        "name": "AMD Ryzen 5 3600 Wraith Stealth CPU - 6 kerner 3.6 GHz - AMD AM4 - AMD Boxed (PIB - med køler)",
+        "place": 4
+      },
+      {
+        "name": "AMD Ryzen 7 5800X CPU - 8 kerner 3.8 GHz - AMD AM4 - AMD Boxed (WOF - uden køler)",
+        "place": 5
+      },
+      {
+        "name": "Intel Core i9-10900KF Comet Lake CPU - 10 kerner 3.7 GHz - Intel LGA1200 - Intel Boxed without heatsink/fan",
+        "place": 6
+      },
+      {
+        "name": "Intel Core i5-11600K Rocket Lake CPU - 6 kerner 3.9 GHz - Intel LGA1200 - Intel Boxed without heatsink/fan",
+        "place": 7
+      },
+      {
+        "name": "Intel Core i5-10400F Comet Lake CPU - 6 kerner 2.9 GHz - Intel LGA1200 - Intel Boxed",
+        "place": 8
+      },
+      {
+        "name": "Intel Core i7-11700K Rocket Lake CPU - 8 kerner 3.6 GHz - Intel LGA1200 - Intel Boxed without heatsink/fan",
+        "place": 9
+      },
+      {
+        "name": "AMD Ryzen 9 3900X Wraith Prism CPU - 12 kerner 3.8 GHz - AMD AM4 - AMD Boxed (PIB - med køler)",
+        "place": 10
+      }
+    ]
+  },
+  {
+    "name": "komplett",
+    "data": [
+      {
+        "name": "AMD Ryzen 9 5900X",
+        "place": 1
+      },
+      {
+        "name": "AMD Ryzen 7 3700X",
+        "place": 2
+      },
+      {
+        "name": "AMD Ryzen 7 5800X",
+        "place": 3
+      },
+      {
+        "name": "AMD Ryzen 5 3600",
+        "place": 4
+      },
+      {
+        "name": "AMD Ryzen 9 5950X",
+        "place": 5
+      },
+      {
+        "name": "Intel Core i7-10700K",
+        "place": 6
+      },
+      {
+        "name": "Intel Core i9-9900K",
+        "place": 7
+      },
+      {
+        "name": "AMD Ryzen 5 5600X",
+        "place": 8
+      },
+      {
+        "name": "Intel Core i7-11700K",
+        "place": 9
+      },
+      {
+        "name": "Intel Core i5-11600K",
+        "place": 10
+      }
+    ]
+  },
+  {
+    "name": "rozetka",
+    "data": [
+      {
+        "name": "AMD Ryzen 5 1600 3.2GHz/16MB (YD1600BBAFBOX) sAM4 BOX",
+        "place": 1
+      },
+      {
+        "name": "AMD Ryzen 5 2600 3.4GHz/16MB (YD2600BBAFBOX) sAM4 BOX",
+        "place": 2
+      },
+      {
+        "name": "AMD Ryzen 3 1200 3.2GHz/8MB (YD1200BBAFBOX) sAM4 BOX",
+        "place": 3
+      },
+      {
+        "name": "Intel Pentium Gold G5420 3.8GHz/8GT/s/4MB (BX80684G5420) s1151 BOX",
+        "place": 4
+      },
+      {
+        "name": "Intel Core i5-10600K 4.1GHz/12MB (BX8070110600K) s1200 BOX",
+        "place": 5
+      },
+      {
+        "name": "Intel Core i5-11400F 2.6GHz/12MB (BX8070811400F) s1200 BOX",
+        "place": 6
+      },
+      {
+        "name": "AMD Ryzen 5 3600 3.6GHz/32MB (100-000000031) sAM4 OEM",
+        "place": 7
+      },
+      {
+        "name": "AMD Ryzen 5 3400G 3.7GHz/4MB (YD340GC5FHMPK) sAM4 OEM",
+        "place": 8
+      },
+      {
+        "name": "Intel Core i5-10400F 2.9GHz/12MB (CM8070104290716) s1200 ОЕМ",
+        "place": 9
+      },
+      {
+        "name": "AMD Ryzen 5 5600X 3.7GHz/32MB (100-100000065BOX) sAM4 BOX",
+        "place": 10
+      }
+    ]
+  },
+  {
+    "name": "ldlc",
+    "data": [
+      {
+        "name": "Intel Pentium Gold G5420 (3.8 GHz)",
+        "place": 1
+      },
+      {
+        "name": "AMD Ryzen 3 3200G (3.6 GHz / 4 GHz)",
+        "place": 2
+      },
+      {
+        "name": "Intel Core i5-10400 (2.9 GHz / 4.3 GHz)",
+        "place": 3
+      },
+      {
+        "name": "AMD Ryzen 3 1200 AF Wraith Stealth Edition (3.1 GHz / 3.4 GHz)",
+        "place": 4
+      },
+      {
+        "name": "AMD Ryzen 5 3600 Wraith Stealth (3.6 GHz / 4.2 GHz)",
+        "place": 5
+      },
+      {
+        "name": "Intel Core i7-10700KF (3.8 GHz / 5.1 GHz)",
+        "place": 6
+      },
+      {
+        "name": "Intel Core i5-10400F (2.9 GHz / 4.3 GHz)",
+        "place": 7
+      },
+      {
+        "name": "Intel Pentium Gold G6400 (4.0 GHz)",
+        "place": 8
+      },
+      {
+        "name": "AMD Ryzen 5 1600 AF Wraith Stealth Edition (3.2 GHz / 3.6 Ghz)",
+        "place": 9
+      },
+      {
+        "name": "Intel Celeron G5905 (3.5 GHz)",
+        "place": 10
+      }
+    ]
+  },
+  {
+    "name": "rueducommerce",
+    "data": [
+      {
+        "name": "Amd     Ryzen 9 5950X   3,4/4,9 GHz",
+        "place": 1
+      },
+      {
+        "name": "Amd     Ryzen 5 2600 Wraith Stealth Edition   3,4/3,9 GHz",
+        "place": 2
+      },
+      {
+        "name": "Intel     Core i5 10400F   2.9/4.3 GHz",
+        "place": 3
+      },
+      {
+        "name": "Amd     Ryzen 5 3600 Wraith Stealth Edition   3,6/4,2 GHz",
+        "place": 4
+      },
+      {
+        "name": "Amd     Processeur Ryzen 7 5800X   3,8/4,7 GHz",
+        "place": 5
+      },
+      {
+        "name": "Amd     Ryzen 9 3900X Wraith Prism LED RGB   3,8/4,6 GHz",
+        "place": 6
+      },
+      {
+        "name": "Intel     Core i9 10900K   3.7/5.3 GHz",
+        "place": 7
+      },
+      {
+        "name": "Intel     Core i5 10600KF   4.1/4.8 GHz",
+        "place": 8
+      },
+      {
+        "name": "Amd     Processeur Ryzen 9 5900X   3,7/4,8 GHz",
+        "place": 9
+      },
+      {
+        "name": "Intel     Core™ i7 11700K   3,6/5 GHz",
+        "place": 10
+      }
+    ]
+  },
+  {
+    "name": "amazonde",
+    "data": [
+      {
+        "name": "AMD Ryzen 7 3700X processor, 4GHz AM4 36MB cache wraith prism",
+        "place": 1
+      },
+      {
+        "name": "AMD Ryzen 5 5600X Box Processor",
+        "place": 2
+      },
+      {
+        "name": "AMD Ryzen Processor",
+        "place": 3
+      },
+      {
+        "name": "AMD Ryzen processor",
+        "place": 4
+      },
+      {
+        "name": "AMD RYZEN 9 3900x Socket AM4 processor",
+        "place": 5
+      },
+      {
+        "name": "AMD Ryzen 7 5800X Box Processor",
+        "place": 6
+      },
+      {
+        "name": "AMD Processor RYZEN5 2600 Socket AM4 3.9 GHz Max Boost 3.4 GHz Base + 19 MB",
+        "place": 7
+      },
+      {
+        "name": "Intel Core i7-10700KF (base clock: 3.80GHz; socket: LGA1200; 125 Watt) box",
+        "place": 8
+      },
+      {
+        "name": "AMD Ryzen Processor",
+        "place": 9
+      },
+      {
+        "name": "AMD Ryzen",
+        "place": 10
+      }
+    ]
+  },
+  {
+    "name": "DnsShop",
+    "data": [
+      {
+        "name": "AMD Ryzen 5 3600",
+        "place": 1
+      },
+      {
+        "name": "AMD Ryzen 5 5600X",
+        "place": 2
+      },
+      {
+        "name": "AMD Ryzen 5 2600",
+        "place": 3
+      },
+      {
+        "name": "Intel Core i3-10100",
+        "place": 4
+      },
+      {
+        "name": "AMD Ryzen 7 3700X",
+        "place": 5
+      },
+      {
+        "name": "Intel Core i5-10400F",
+        "place": 6
+      },
+      {
+        "name": "AMD Ryzen 5 3350G",
+        "place": 7
+      },
+      {
+        "name": "AMD Ryzen 7 2700X",
+        "place": 8
+      },
+      {
+        "name": "Intel Core i5-10400F",
+        "place": 9
+      },
+      {
+        "name": "Intel Core i5-10600KF",
+        "place": 10
+      }
+    ]
+  }
+]
